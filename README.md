@@ -19,4 +19,4 @@ In this project, we are predicting Rossmann store sales using Spark framework
 1. Exploratory data analysis
 2. Equation 
 3. feature Engineering
-4. Build ML Modelas as per problem statement.
+4. Build ML Models as per problem statement.
